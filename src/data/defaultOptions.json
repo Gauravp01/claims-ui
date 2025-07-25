@@ -1,0 +1,13 @@
+[
+  {
+    "label": "Option 1",
+    "familyDefinition": "EMP",
+    "employees": 100,
+    "dependents": 100,
+    "totalLives": 100,
+    "sumInsured": 200000,
+    "sumInsuredManual": "",
+    "comments": "",
+    "sumInsuredType": "Family Floater"
+  }
+]
